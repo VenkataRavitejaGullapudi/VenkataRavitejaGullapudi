@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VenkataRavitejaGullapudi
 - 👀 I’m interested in developing aplications
-- 🌱 I’m currently learning something new
+- 🌱 I believe that there is lot to learn in this fast growing era.
 - 💞️ I’m looking to collaborate on the good projects
 - 📫 How to reach me ravitejagullapudi.tech
 
