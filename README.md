@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on the good projects
 - 📫 How to reach me ravitejagullapudi.tech
 
-![](https://komarev.com/ghpvc/?username=VenkataRavitejaGullapudi&color=green)
 <!---
 VenkataRavitejaGullapudi/VenkataRavitejaGullapudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
